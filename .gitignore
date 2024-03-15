@@ -1,0 +1,16 @@
+/.idea
+/.fleet
+/.vscode
+
+/config.php
+/cache
+
+/errors.log
+/*.log
+
+/vendor
+/composer.phar
+/composer.lock
+
+.DS_Store
+Thumbs.db
